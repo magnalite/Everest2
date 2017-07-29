@@ -1,0 +1,1 @@
+_G.DisableTileLighting = not _G.DisableTileLighting
